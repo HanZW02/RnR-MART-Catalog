@@ -11,9 +11,11 @@
 
     /* Navbar */
     nav {
+      height: 70px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       display: flex;
-      justify-content: space-between;
       align-items: center;
+      justify-content: space-between;
       padding: 10px 30px;
       background: white;
       border-bottom: 1px solid #ccc;
